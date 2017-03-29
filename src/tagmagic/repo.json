@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "tagmagic",
+		"Description": "Provides tools for quickly editing tag based markup",
+		"Tags": ["html","xml","tagging"],
+		"Versions": [
+			{
+				"Version": "0.1",
+				"Url": "https://github.com/GeigerCounter/micro-plugins/packages/tagmagic/v0.1.zip",
+				"Require": {
+					"micro": ">=1.1.2"
+				}
+			}
+		]
+	}
+]

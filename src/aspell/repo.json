@@ -1,0 +1,16 @@
+[
+	{
+		"Name": "aspell",
+		"Description": "adds spellchecking to micro (Only use if spellcheck plugin isn't working.)",
+		"Tags": ["spell","aspell","spellchecker"],
+		"Versions": [
+			{
+				"Version": "0.1",
+				"Url": "https://github.com/GeigerCounter/micro-plugins/packages/aspell/v0.1.zip",
+				"Require": {
+					"micro": ">=1.1.2"
+				}
+			}
+		]
+	}
+]
